@@ -3,6 +3,7 @@
 
 # In[1]:
 
+# Ran this code in Jupyter Notebooks. It's cute.
 
 import pandas as pd
 import plotly.express as px
